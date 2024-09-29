@@ -1,0 +1,1 @@
+First I tried extreme effects but then I understand that I can't do them. So I made a basic affect and basic gallery.
